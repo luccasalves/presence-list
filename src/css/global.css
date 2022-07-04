@@ -1,0 +1,23 @@
+body{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Poppins', sans-serif;
+    background-color: #f2f2f2;
+}
+
+h1,h2,h3,h4, p{
+    margin: 0;
+}
+
+.pa-sm{
+    padding: 8px
+}
+
+.pa-md{
+    padding: 16px;
+}
+
+.pa-lg{
+    padding: 24px;
+}
